@@ -1,4 +1,3 @@
--- Credits to Instance Serializer for helping me convert the Tokyowami shrine whatever thing to luau
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
